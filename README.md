@@ -33,11 +33,11 @@ This project delivers a comprehensive analysis of inventory movement, purchasing
 - Sales revenue and excise tax impact
 
 ## Visualizations
-- Inventory movement distribution
-- Margin and markup boxplots
-- Vendor freight ratio bar charts
+- This scatter plot visualizes the relationship between total sales and profit margin across different brands, helping you identify which products may need promotional or pricing adjustments.
+- This Pareto chart adds a strategic layer to your vendor analysis by showing not just who contributes most to purchases, but how quickly those contributions accumulate.
+- This pie chart explains the purchase contribution relationships among top vendors, showing how much each supplier accounts for in total procurement.
 - Top-selling products by revenue
-- Payment timing boxplots
+- The heatmap reveals the strength and direction of relationships between key variables across inventory, purchasing, vendor, and sales data
 
 ## Reporting Structure
 1. **Executive Summary**
